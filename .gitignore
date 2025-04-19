@@ -12,3 +12,7 @@ test-data
 
 # python files
 *.pyc
+
+.venv
+
+*.bak
